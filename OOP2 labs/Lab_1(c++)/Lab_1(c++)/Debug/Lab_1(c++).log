@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\repos\OOP labs\Lab_1(c++)\Lab_1(c++)\Source.cpp(26,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\repos\OOP labs\Lab_1(c++)\Lab_1(c++)\Source.cpp(49,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\repos\OOP labs\Lab_1(c++)\Lab_1(c++)\Source.cpp(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_1(c++).vcxproj -> D:\repos\OOP labs\Lab_1(c++)\Debug\Lab_1(c++).exe
